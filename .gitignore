@@ -1,2 +1,2 @@
-v1/node\*
-v2/node\*
+v1/node_modules/*
+v2/node_modules/*
